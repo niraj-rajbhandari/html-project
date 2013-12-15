@@ -1,0 +1,42 @@
+.set4{
+    width:22.865528281750266808964781216649%;
+    float:left;
+    padding:22px 0.85378868729989327641408751334045%;
+    min-height:230px;
+    height:230px;
+    height:auto !important;
+}
+.set4 .set-header{
+    border-bottom: #dedede solid 1px;
+     margin-bottom:24px;
+}
+.set4 .set-header h1{
+    font-size:15px;
+    line-height: 35px;
+}
+.set3{
+    width:33.333333333333333333333333333333%;
+    float:left;
+    padding-right:28px;
+    padding:22px 0px;
+}
+.set3 .set-header{
+    margin-bottom:30px;
+    overflow: hidden;
+}
+.set3 .set-header .header-img{
+    float:left;
+}
+.set3 .set-header .header-content{
+    float:left;
+    margin-left:11.683848797250859106529209621993%;
+}
+.set3 .set-header h1{
+    font-size:16px;
+    line-height: 35px;
+
+}
+.set-content img{
+    float:left;
+    margin-right:13.461538461538461538461538461538%;
+}

@@ -1,0 +1,83 @@
+.header-logo{
+    width:23.060573857598299681190223166844%;
+    height:45px;
+    background:#ff3334;
+    float:left;
+    -moz-box-shadow:     -10px 10px 10px #000000;
+    -webkit-box-shadow:  -10px 10px 10px #000000;
+    box-shadow:          -10px 10px 10px #000000;
+}
+.header-right{
+    float:right;
+    width:64.293304994686503719447396386823%;
+    padding-top:19px;
+}
+.header-nav{
+    width:76.033057851239669421487603305785%;
+    float:left;
+}
+.header-nav ul{
+    list-style-type: none;
+}
+.header-nav ul li{
+    display:inline;
+    padding-right:3.9565217391304347826086956521739%;
+}
+.header-nav ul li a{
+    color:#000;
+}
+.header-nav ul li a:hover{
+    color:#2298d8;
+}
+.header-social-icons{
+    width:9.4214876033057851239669421487603%;
+    float:right;
+}
+.banner h1{
+    margin-bottom:24px;
+}
+
+.banner p{
+    margin-bottom:26px;
+}
+
+.banner-left{
+    width:40.063761955366631243358129649309%;
+    float:left;
+}
+.banner-left-content{
+    min-height:263px;
+    height:263px;
+    height:auto !important;
+}
+
+.banner-right{
+    width:48.239060832443970117395944503735%;
+    float:right;
+}
+.home-quote{
+    background:#ebebeb;
+    padding:20px 3.2017075773745997865528281750267%;
+    border-radius: 5px 5px 5px 5px;
+    font-size:18px;
+    color:#6e6c6d;
+    margin:22px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Tools*/
+.active{
+     color:#2298d8 !important;
+}
+.clear-both{
+    clear:both;
+}

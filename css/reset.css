@@ -1,0 +1,12 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background:#f9f9f9;
+    font-family:"Arial",Georgia,Serif;
+}
+a{
+    color:#2298d8;
+    text-decoration: none;
+}
