@@ -1,7 +1,6 @@
 .main-container-wrapper{
     max-width:62.65em;/*1002px*/
     margin:0 auto;
-    overflow:hidden;
 }
 .main-content-wrapper{
     width:93.912175648702594810379241516966%;/*941px*/
@@ -10,13 +9,15 @@
 }
 .header-wrapper{
     position:relative;
-    border-bottom: #dedede solid 1px;
+    background: url('../img/border-bottom.png') repeat-x;
+    background-position: bottom;
     margin:36px 0px;
     overflow:hidden;
     padding-bottom:20px;
 }
 .banner-wrapper{
-    border-bottom: #dedede  solid 1px;
+    background: url('../img/border-bottom.png') repeat-x;
+    background-position: bottom;
 }
 .banner{
     width:99.574920297555791710945802337938%;
